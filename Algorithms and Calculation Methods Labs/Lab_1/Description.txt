@@ -1,0 +1,4 @@
+	Lab ¹1
+	Calculating function value
+Target: to explore the features of the approximation functions using power series,
+ the approach to analyze errors.

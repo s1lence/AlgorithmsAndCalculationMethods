@@ -1,0 +1,4 @@
+	Lab ¹3
+	Solving systems of linear equations
+Target: explore the direct and iterative methods for 
+ solving systems of linear algebraic equations.
